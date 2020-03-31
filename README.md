@@ -13,8 +13,11 @@
 
 ------------------------------
 
-## 简介
+# 简介
 
 **jasypt** 是一个使用jasypt对spring boot项目的配置文件进行加密的dmeo项目。
 
 轻快，简洁，安全，使用jasypt对spring boot项目的配置文件进行加密。
+
+# License
+Released under the [MIT](LICENSE) License.
